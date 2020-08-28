@@ -19,3 +19,7 @@
 ##### COPS CodeChef Problem Link : https://www.codechef.com/problems/COPS
 
 #### 2. STRINGS
+
+##### CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
+
+##### LAPIN CodeChef Problem Link: https://www.codechef.com/problems/LAPIN
