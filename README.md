@@ -1,8 +1,6 @@
 # Competitive_Programming
 
-## TABLE OF CONTENTS
-
-#### 1. ARRAYS
+### 1. ARRAYS
 
 ##### LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
@@ -18,7 +16,7 @@
 
 ##### COPS CodeChef Problem Link : https://www.codechef.com/problems/COPS
 
-#### 2. STRINGS
+### 2. STRINGS
 
 ##### CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
 
