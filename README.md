@@ -1,6 +1,6 @@
 # Competitive_Programming
 
-## TABLE OF CONTENT
+## TABLE OF CONTENTS
 
-### 1. ARRAYS
-### 2. STRINGS
+#### 1. ARRAYS
+#### 2. STRINGS
