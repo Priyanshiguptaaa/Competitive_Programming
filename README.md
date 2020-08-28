@@ -2,5 +2,5 @@
 
 ## TABLE OF CONTENTS
 
-#### [1. ARRAYS]#ARAYS
-#### [2. STRINGS]#STRINGS
+#### 1. ARRAYS
+#### 2. STRINGS
