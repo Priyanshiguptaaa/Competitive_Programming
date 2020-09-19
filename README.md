@@ -1,6 +1,6 @@
 # Competitive_Programming
 
-https://img.shields.io/badge/<Competitive>-<Programming>-<Blue>
+https://img.shields.io/static/v1?label=<Competitive>&message=<Programming>&color=<blue>
 
 ### 1. ARRAYS
 
