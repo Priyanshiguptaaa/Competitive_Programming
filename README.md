@@ -4,23 +4,23 @@
 
 LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
-##### CNOTE CodeChef Problem Link : https://www.codechef.com/problems/CNOTE
+CNOTE CodeChef Problem Link : https://www.codechef.com/problems/CNOTE
 
-##### FRGTNLNG CodeChef Problem Link : https://www.codechef.com/problems/FRGTNLNG
+FRGTNLNG CodeChef Problem Link : https://www.codechef.com/problems/FRGTNLNG
 
-##### CHN15A CodeChef Problem Link : https://www.codechef.com/problems/CHN15A
+CHN15A CodeChef Problem Link : https://www.codechef.com/problems/CHN15A
 
-##### RAINBOWA CodeChef Problem Link : https://www.codechef.com/problems/RAINBOWA
+RAINBOWA CodeChef Problem Link : https://www.codechef.com/problems/RAINBOWA
 
-##### SALARY CodeChef Problem Link : https://www.codechef.com/problems/SALARY
+SALARY CodeChef Problem Link : https://www.codechef.com/problems/SALARY
 
-##### COPS CodeChef Problem Link : https://www.codechef.com/problems/COPS
+COPS CodeChef Problem Link : https://www.codechef.com/problems/COPS
 
 ### 2. STRINGS
 
-##### CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
+CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
 
-##### LAPIN CodeChef Problem Link: https://www.codechef.com/problems/LAPIN
+LAPIN CodeChef Problem Link: https://www.codechef.com/problems/LAPIN
 
 ### 3. STACKS AND QUEUES
 
@@ -30,9 +30,9 @@ LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
 ### 6. GREEDY ALGORITHMS
 
-##### CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWARS
+CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWARS
 
-##### POLYREL CodeChef Problem Link: https://www.codechef.com/problems/POLYREL
+POLYREL CodeChef Problem Link: https://www.codechef.com/problems/POLYREL
 
 ### 7. BASIC DYNAMIC PROGRAMMING
 
@@ -62,7 +62,7 @@ LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
 ### 20. NUMBER THEORY 
 
-##### CRDGAME3 CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/CRDGAME3
+CRDGAME3 CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/CRDGAME3
 
 ### 21. STRING THEORY
 
