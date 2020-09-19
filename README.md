@@ -36,7 +36,9 @@ CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWAR
 
 POLYREL CodeChef Problem Link: https://www.codechef.com/problems/POLYREL
 
-### 7. BASIC DYNAMIC PROGRAMMING
+### 7. DYNAMIC PROGRAMMING
+
+CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
 
 ### 8. SORTING
 
