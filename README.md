@@ -74,3 +74,21 @@ CRDGAME3 CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/CRDGAM
 
 SKMP CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/SKMP
 
+### 22. UNDIRECTED GRAPHS
+
+### 23. DIRECTED GRAPHS
+
+### 24. TOPOLOGICAL SORTING
+
+### 25. EULAR PATH, TOUR/CYCLE
+
+### 26. MODULO ARITHMETIC
+
+### 26. DIVIDE & CONQUER
+
+### 27. ADVANCED DYNAMIC PROGRAMMING
+
+### 28. SIEVE OF ERATOSTHENES
+
+
+
