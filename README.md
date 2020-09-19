@@ -1,6 +1,6 @@
 # Competitive_Programming
 
-https://img.shields.io/static/v1?label=<Competitive>&message=<Programming>&color=<blue>
+https://img.shields.io/github/commit-activity/m/Priyanshiguptaaa/Competitive_Programming
 
 ### 1. ARRAYS
 
