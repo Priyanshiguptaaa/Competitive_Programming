@@ -24,7 +24,9 @@ LAPIN CodeChef Problem Link: https://www.codechef.com/problems/LAPIN
 
 ### 3. STACKS AND QUEUES
 
-### 4. MATH
+### 4. MATH & EUCLID's GCD
+
+LICHNESS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/LINCHESS
 
 ### 5. BASIC RECURSION
 
