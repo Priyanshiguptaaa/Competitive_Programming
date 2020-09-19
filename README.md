@@ -36,6 +36,8 @@ CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWAR
 
 POLYREL CodeChef Problem Link: https://www.codechef.com/problems/POLYREL
 
+CHEFNWRK CodeChef Problem Link: https://www.codechef.com/COOK121B/problems/CHEFNWRK
+
 ### 7. DYNAMIC PROGRAMMING
 
 CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
