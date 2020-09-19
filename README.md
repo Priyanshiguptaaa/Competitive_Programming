@@ -1,7 +1,5 @@
 # Competitive_Programming
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Priyanshiguptaaa/Competitive_Programming)
-
 ### 1. ARRAYS
 
 - LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
