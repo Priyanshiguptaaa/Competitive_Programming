@@ -2,7 +2,7 @@
 
 ### 1. ARRAYS
 
-##### LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
+LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
 ##### CNOTE CodeChef Problem Link : https://www.codechef.com/problems/CNOTE
 
