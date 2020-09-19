@@ -1,5 +1,7 @@
 # Competitive_Programming
 
+https://img.shields.io/badge/<Competitive>-<Programming>-<Blue>
+
 ### 1. ARRAYS
 
 LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
