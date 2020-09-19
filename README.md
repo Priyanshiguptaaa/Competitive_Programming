@@ -68,3 +68,5 @@ CRDGAME3 CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/CRDGAM
 
 ### 21. STRING THEORY
 
+SKMP CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/SKMP
+
