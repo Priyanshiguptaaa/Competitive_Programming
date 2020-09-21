@@ -90,5 +90,9 @@
 
 ### 28. SIEVE OF ERATOSTHENES
 
+### 29. FFT
+
+### 30. HLD
+
 
 
