@@ -44,6 +44,8 @@
 
 ### 8. SORTING
 
+- TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
+
 ### 9. BINARY SEARCH
 
 ### 10. HEAPS
