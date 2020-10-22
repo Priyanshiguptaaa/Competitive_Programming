@@ -18,6 +18,8 @@
 
 - EQUILIBRIUM-POINT GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/equilibrium-point/0#
 
+- MAXSUM_W_ADJ GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
+
 ### 2. STRINGS
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
