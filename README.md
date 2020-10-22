@@ -16,6 +16,8 @@
 
 - COPS CodeChef Problem Link : https://www.codechef.com/problems/COPS
 
+- EQUILIBRIUM-POINT GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/equilibrium-point/0#
+
 ### 2. STRINGS
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
