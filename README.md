@@ -28,11 +28,13 @@
 
 ### 3. STACKS AND QUEUES
 
+- NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
+
 ### 4. MATH & EUCLID's GCD
 
 - LICHNESS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/LINCHESS
 
-### 5. BASIC RECURSION
+### 5. BASIC RECURSION & BACKTRACKING
 
 ### 6. GREEDY ALGORITHMS
 
@@ -42,7 +44,7 @@
 
 - CHEFNWRK CodeChef Problem Link: https://www.codechef.com/COOK121B/problems/CHEFNWRK
 
-### 7. DYNAMIC PROGRAMMING
+### 7. DYNAMIC PROGRAMMING 
 
 - CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
 
