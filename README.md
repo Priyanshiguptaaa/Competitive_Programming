@@ -48,11 +48,13 @@
 
 - CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
 
-### 8. SORTING
+### 8. SORTING & BINARY SEARCH
 
 - TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
 
-### 9. BINARY SEARCH
+### 9. BIT MANIPULATION
+
+- NUM1BIT LeetCode Problem Link: https://leetcode.com/problems/number-of-1-bits/
 
 ### 10. HEAPS
 
