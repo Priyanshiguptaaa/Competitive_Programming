@@ -52,7 +52,7 @@
 
 - TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
 
-### 9. BIT MANIPULATION
+### 9. BIT MANIPULATION & BITMASKING
 
 - NUM1BIT LeetCode Problem Link: https://leetcode.com/problems/number-of-1-bits/
 
