@@ -58,6 +58,8 @@
 
 - COUNTBIT LeetCode Problem Link: https://leetcode.com/problems/counting-bits/
 
+- POW2 LeetCode Problem Link: https://leetcode.com/problems/power-of-two/
+
 ### 10. HEAPS
 
 ### 11. DISJOINT SET UNION
