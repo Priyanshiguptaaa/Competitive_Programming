@@ -56,6 +56,8 @@
 
 - NUM1BIT LeetCode Problem Link: https://leetcode.com/problems/number-of-1-bits/
 
+- COUNTBIT LeetCode Problem Link: https://leetcode.com/problems/counting-bits/
+
 ### 10. HEAPS
 
 ### 11. DISJOINT SET UNION
