@@ -62,7 +62,7 @@
 
 ### 10. HEAPS
 
-### 11. DISJOINT SET UNION
+### 11. LINKED LISTS
 
 ### 12. SEGMENT TREES
 
@@ -107,6 +107,8 @@
 ### 29. FFT
 
 ### 30. HLD
+
+### 31. DISJOINT SET UNION
 
 
 
