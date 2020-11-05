@@ -20,6 +20,8 @@
 
 - MAXSUM_W_ADJ GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
 
+- SPIRAL-0 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix/
+
 ### 2. STRINGS
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
