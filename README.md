@@ -20,7 +20,11 @@
 
 - MAXSUM_W_ADJ GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1
 
-- SPIRAL-0 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix/
+- SPIRAL-1 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix/
+
+- SPIRAL-2 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix-ii/
+
+- SPIRAL-3 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix-iii/
 
 ### 2. STRINGS
 
