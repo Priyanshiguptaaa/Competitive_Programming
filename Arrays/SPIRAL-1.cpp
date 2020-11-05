@@ -48,7 +48,7 @@ public:
                 }
                 left+=1;
             }
-            dir=(dir+1)%4;
+            dir=(dir+1)%4; //change direction
         } 
         return v;
     }
