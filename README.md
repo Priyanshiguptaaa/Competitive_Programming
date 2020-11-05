@@ -94,9 +94,11 @@
 
 - SKMP CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/SKMP
 
-### 22. UNDIRECTED GRAPHS
+### 22. GRAPHS
 
-### 23. DIRECTED GRAPHS
+- graph_template.cpp : TEMPLATE
+
+### 23. ISJOINT SET UNION
 
 ### 24. TOPOLOGICAL SORTING
 
@@ -114,7 +116,6 @@
 
 ### 30. HLD
 
-### 31. DISJOINT SET UNION
 
 
 
