@@ -84,6 +84,8 @@
 
 ### 18. GRAPHS
 
+- PERMUTATION_SWAPS HackerEarth Problem Link : https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/
+
 ### 19. DIJKSTRA ALGORITHM || BELLMAN-FORD ALGORITHM || FLOYD-WARSHALL ALGORITHM
 
 ### 20. TOPOLOGICAL SORTING
