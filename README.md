@@ -26,6 +26,8 @@
 
 - SPIRAL-3 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix-iii/
 
+- SOCK_MERCHANT Hackerrank Problem Link : https://www.hackerrank.com/challenges/sock-merchant/problem
+
 ### 2. STRINGS
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
