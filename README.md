@@ -28,13 +28,17 @@
 
 - SOCK_MERCHANT Hackerrank Problem Link : https://www.hackerrank.com/challenges/sock-merchant/problem
 
+- JUMP_CLOUD Hackerrank Problem Link : https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
 ### 2. STRINGS
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
 
 - LAPIN CodeChef Problem Link: https://www.codechef.com/problems/LAPIN
 
-- COUNTING_VALEEYS Hackerrank Problem Link: https://www.hackerrank.com/challenges/counting-valleys/problem
+- COUNTING_VALLEYS Hackerrank Problem Link: https://www.hackerrank.com/challenges/counting-valleys/problem
+
+- REPEAT_STRING Hackerrank Problem Link : https://www.hackerrank.com/challenges/repeated-string/problem
 
 ### 3. STACKS AND QUEUES
 
