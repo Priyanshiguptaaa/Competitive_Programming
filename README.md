@@ -58,6 +58,8 @@
 
 - CHEFNWRK CodeChef Problem Link: https://www.codechef.com/COOK121B/problems/CHEFNWRK
 
+- MINDIF Hackerrank Problem Link : https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem
+
 ### 7. DYNAMIC PROGRAMMING 
 
 - CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
