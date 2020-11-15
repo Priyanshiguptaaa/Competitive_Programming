@@ -40,6 +40,8 @@
 
 - REPEAT_STRING Hackerrank Problem Link : https://www.hackerrank.com/challenges/repeated-string/problem
 
+- MAKING_ANAGRAM Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
+
 ### 3. STACKS AND QUEUES
 
 - NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
