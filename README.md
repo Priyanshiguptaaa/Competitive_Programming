@@ -62,6 +62,8 @@
 
 - LUCK_BALANCE Hackerrank Problem Link : https://www.hackerrank.com/challenges/luck-balance/problem
 
+- GREEDY_FLORIST Hackerrank Problem Link : https://www.hackerrank.com/challenges/greedy-florist/problem
+
 ### 7. DYNAMIC PROGRAMMING 
 
 - CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
