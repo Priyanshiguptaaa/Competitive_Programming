@@ -1,4 +1,20 @@
-# Competitive_Programming
+# Competitive_Programming 
+
+A cummulative list of competive programming questions and my code solution for them
+
+<h2 align="center">✨ My Coding Profiles ✨</h3>
+
+<p align="center">
+   <b> Hackerrank : </b> priyanshi_1709   
+</p>
+
+<p align="center">
+   <b> LeetCode :  </b>  priyanshi1709 
+</p>
+
+<p align="center">
+   <b> CodeChef : </b>   priyanshi_1709   
+</p>
 
 ### 1. ARRAYS
 
