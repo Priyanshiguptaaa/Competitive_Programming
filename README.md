@@ -58,6 +58,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - MAKING_ANAGRAM Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
 
+- ALTERNATING_CHAR Hackerrank Problem Link : https://www.hackerrank.com/challenges/alternating-characters/problem
+
 ### 3. STACKS AND QUEUES
 
 - NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
