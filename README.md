@@ -68,7 +68,9 @@ A cummulative list of competive programming questions and my code solution for t
 
 - LICHNESS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/LINCHESS
 
-### 5. BASIC RECURSION & BACKTRACKING
+### 5. RECURSION & BACKTRACKING
+
+- FIBONACCI Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem
 
 ### 6. GREEDY ALGORITHMS
 
