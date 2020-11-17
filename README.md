@@ -72,6 +72,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - FIBONACCI Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem
 
+- DAVISTAIRCASE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
+
 ### 6. GREEDY ALGORITHMS
 
 - CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWARS
