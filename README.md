@@ -74,6 +74,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - DAVISTAIRCASE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
 
+- RECURSEDIGSUM Hackerrank Problem Link : https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+
 ### 6. GREEDY ALGORITHMS
 
 - CHEFWARS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWARS
