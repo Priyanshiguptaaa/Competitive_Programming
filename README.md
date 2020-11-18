@@ -60,9 +60,9 @@ A cummulative list of competive programming questions and my code solution for t
 
 - ALTERNATING_CHAR Hackerrank Problem Link : https://www.hackerrank.com/challenges/alternating-characters/problem
 
-### 3. STACKS AND QUEUES
+### 3. HASH MAPS
 
-- NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
+- RANSOM_NOTE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
 ### 4. MATH & EUCLID's GCD
 
@@ -114,19 +114,21 @@ A cummulative list of competive programming questions and my code solution for t
 
 ### 10. HEAPS
 
-### 11. LINKED LISTS
+### 11. STACKS AND QUEUES
 
-### 12. SEGMENT TREES
+- NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
 
-### 13. SEGMENT TREES (WITH LAZY PROPAGATION)
+### 12. LINKED LISTS
 
-### 14. FENWICK TREE (BINARY INDEX TREE)
+### 13. SEGMENT TREES
 
-### 15. TREES (TRAVERSAL)
+### 14. SEGMENT TREES (WITH LAZY PROPAGATION)
 
-### 16. PRIM & KRUSKAL ALGORITHM ( MINIMUM SPANNING TREE )
+### 15. FENWICK TREE (BINARY INDEX TREE)
 
-### 17. DISJOINT SET UNION
+### 16. TREES (TRAVERSAL)
+
+### 17. PRIM & KRUSKAL ALGORITHM ( MINIMUM SPANNING TREE )
 
 ### 18. GRAPHS
 
@@ -154,6 +156,7 @@ A cummulative list of competive programming questions and my code solution for t
 
 ### 26. ADVANCED DYNAMIC PROGRAMMING
 
+### 27. DISJOINT SET UNION
 
 
 
