@@ -64,6 +64,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - RANSOM_NOTE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
+- TWO_STRINGS Hackerrank Problem Link : https://www.hackerrank.com/challenges/two-strings/problem
+
 ### 4. MATH & EUCLID's GCD
 
 - LICHNESS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/LINCHESS
