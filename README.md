@@ -102,6 +102,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - MINCOSTTICKET LeetCode Problem Link : https://leetcode.com/problems/minimum-cost-for-tickets/
 
+- ACODE HackerEarth Problem Link : https://www.hackerearth.com/problem/algorithm/acode-alphacode-3/description/
+
 ### 8. SORTING & BINARY SEARCH
 
 - TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
