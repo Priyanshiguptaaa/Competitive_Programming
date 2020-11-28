@@ -70,6 +70,12 @@ A cummulative list of competive programming questions and my code solution for t
 
 - LICHNESS CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/LINCHESS
 
+- CMP_TRIPLETS Hackerrank Problem Link: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
+- PLUS_MINUS Hackerrank Problem Link: https://www.hackerrank.com/challenges/plus-minus/problem
+
+- MAGIC_SQUARE Hackerrank Problem Link: https://www.hackerrank.com/challenges/magic-square-forming/problem
+
 ### 5. RECURSION & BACKTRACKING
 
 - FIBONACCI Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem
@@ -107,6 +113,8 @@ A cummulative list of competive programming questions and my code solution for t
 ### 8. SORTING & BINARY SEARCH
 
 - TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
+
+- CTCI_BUBBLE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?
 
 ### 9. BIT MANIPULATION & BITMASKING
 
