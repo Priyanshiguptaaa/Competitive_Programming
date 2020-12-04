@@ -5,9 +5,9 @@ A cummulative list of competive programming questions and my code solution for t
 <h2 align="center">✨ My Coding Profiles ✨</h3>
 
 <p align="center">
-   <b> Hackerrank : </b> priyanshi_1709   
+   <b> Hackerrank : </b> priyanshi_1709  
 </p>
-
+ 
 <p align="center">
    <b> LeetCode :  </b>  priyanshi1709 
 </p>
@@ -17,6 +17,14 @@ A cummulative list of competive programming questions and my code solution for t
 </p>
 
 ### 1. ARRAYS
+
+- BIRTHDAY_CAKE Hackerrank Problem Link : https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+
+- MINI_MAX Hackerrank Problem Link: https://www.hackerrank.com/challenges/mini-max-sum/problem
+
+- SOCK_MERCHANT Hackerrank Problem Link : https://www.hackerrank.com/challenges/sock-merchant/problem
+
+- JUMP_CLOUD Hackerrank Problem Link : https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 
 - LECANDY CodeChef Problem Link : https://www.codechef.com/problems/LECANDY
 
@@ -42,11 +50,11 @@ A cummulative list of competive programming questions and my code solution for t
 
 - SPIRAL-3 LeetCode Problem Link : https://leetcode.com/problems/spiral-matrix-iii/
 
-- SOCK_MERCHANT Hackerrank Problem Link : https://www.hackerrank.com/challenges/sock-merchant/problem
-
-- JUMP_CLOUD Hackerrank Problem Link : https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+- ABS_PERM Hackkerrank Problem Link : https://www.hackerrank.com/challenges/absolute-permutation/problem
 
 ### 2. STRINGS
+
+- TIME_CONV Hackerrank Problem Link : https://www.hackerrank.com/challenges/time-conversion/problem
 
 - CSUB CodeChef Problem Link: https://www.codechef.com/problems/CSUB
 
@@ -60,11 +68,17 @@ A cummulative list of competive programming questions and my code solution for t
 
 - ALTERNATING_CHAR Hackerrank Problem Link : https://www.hackerrank.com/challenges/alternating-characters/problem
 
+- ENCRYPTION Hackerrank Problem Link : https://www.hackerrank.com/challenges/encryption/problem
+
+- BIGGER_IS_GREATER Hackerrank Problem Link : https://www.hackerrank.com/challenges/bigger-is-greater/problem
+
 ### 3. HASH MAPS
 
 - RANSOM_NOTE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ransom-note/problem
 
 - TWO_STRINGS Hackerrank Problem Link : https://www.hackerrank.com/challenges/two-strings/problem
+
+- ICE_CREAM_PARLOUR Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
 
 ### 4. MATH & EUCLID's GCD
 
@@ -75,6 +89,7 @@ A cummulative list of competive programming questions and my code solution for t
 - PLUS_MINUS Hackerrank Problem Link: https://www.hackerrank.com/challenges/plus-minus/problem
 
 - MAGIC_SQUARE Hackerrank Problem Link: https://www.hackerrank.com/challenges/magic-square-forming/problem
+
 
 ### 5. RECURSION & BACKTRACKING
 
