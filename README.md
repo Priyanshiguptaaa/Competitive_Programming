@@ -90,6 +90,7 @@ A cummulative list of competive programming questions and my code solution for t
 
 - MAGIC_SQUARE Hackerrank Problem Link: https://www.hackerrank.com/challenges/magic-square-forming/problem
 
+- DIV_PAIR_SUM Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem
 
 ### 5. RECURSION & BACKTRACKING
 
