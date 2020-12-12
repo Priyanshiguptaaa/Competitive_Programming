@@ -140,6 +140,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - POW2 LeetCode Problem Link: https://leetcode.com/problems/power-of-two/
 
+- BITWISE_AND Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and/problem
+
 ### 10. HEAPS
 
 ### 11. STACKS AND QUEUES
