@@ -164,6 +164,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - PERMUTATION_SWAPS HackerEarth Problem Link : https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/
 
+- BFS_SHORTEST_REACH Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-graph-theory-bfs/problem
+
 ### 19. DIJKSTRA ALGORITHM || BELLMAN-FORD ALGORITHM || FLOYD-WARSHALL ALGORITHM
 
 ### 20. TOPOLOGICAL SORTING
