@@ -2,6 +2,8 @@
 
 A cummulative list of competive programming questions and my code solution for them
 
+----
+
 <h2 align="center">✨ My Coding Profiles ✨</h3>
 
 <p align="center">
@@ -15,6 +17,8 @@ A cummulative list of competive programming questions and my code solution for t
 <p align="center">
    <b> CodeChef : </b>   priyanshi_1709   
 </p>
+
+----
 
 ### 1. ARRAYS
 
@@ -52,6 +56,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - ABS_PERM Hackkerrank Problem Link : https://www.hackerrank.com/challenges/absolute-permutation/problem
 
+----
+
 ### 2. STRINGS
 
 - TIME_CONV Hackerrank Problem Link : https://www.hackerrank.com/challenges/time-conversion/problem
@@ -72,6 +78,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - BIGGER_IS_GREATER Hackerrank Problem Link : https://www.hackerrank.com/challenges/bigger-is-greater/problem
 
+----
+
 ### 3. HASH MAPS
 
 - RANSOM_NOTE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ransom-note/problem
@@ -79,6 +87,8 @@ A cummulative list of competive programming questions and my code solution for t
 - TWO_STRINGS Hackerrank Problem Link : https://www.hackerrank.com/challenges/two-strings/problem
 
 - ICE_CREAM_PARLOUR Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem
+
+----
 
 ### 4. MATH & EUCLID's GCD
 
@@ -92,6 +102,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - DIV_PAIR_SUM Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs/problem
 
+----
+
 ### 5. RECURSION & BACKTRACKING
 
 - FIBONACCI Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem
@@ -99,6 +111,8 @@ A cummulative list of competive programming questions and my code solution for t
 - DAVISTAIRCASE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-recursive-staircase/problem
 
 - RECURSEDIGSUM Hackerrank Problem Link : https://www.hackerrank.com/challenges/recursive-digit-sum/problem
+
+----
 
 ### 6. GREEDY ALGORITHMS
 
@@ -116,6 +130,8 @@ A cummulative list of competive programming questions and my code solution for t
 
 - MAX_MIN Hackerrank Problem Link : https://www.hackerrank.com/challenges/angry-children/problem
 
+----
+
 ### 7. DYNAMIC PROGRAMMING 
 
 - CHEFWED CodeChef Problem Link: https://www.codechef.com/AUG20B/problems/CHEFWED
@@ -126,13 +142,21 @@ A cummulative list of competive programming questions and my code solution for t
 
 - ACODE HackerEarth Problem Link : https://www.hackerearth.com/problem/algorithm/acode-alphacode-3/description/
 
-### 8. SORTING & BINARY SEARCH
+----
+
+### 8. DIVIDE & CONQUER
+
+----
+
+### 9. SORTING & BINARY SEARCH
 
 - TSORT CodeChef Problem Link: https://www.codechef.com/problems/TSORT
 
 - CTCI_BUBBLE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?
 
-### 9. BIT MANIPULATION & BITMASKING
+----
+
+### 10. BIT MANIPULATION & BITMASKING
 
 - NUM1BIT LeetCode Problem Link: https://leetcode.com/problems/number-of-1-bits/
 
@@ -142,51 +166,89 @@ A cummulative list of competive programming questions and my code solution for t
 
 - BITWISE_AND Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and/problem
 
-### 10. HEAPS
+----
 
-### 11. STACKS AND QUEUES
+### 11. HEAPS
+
+----
+
+### 12. STACKS AND QUEUES
 
 - NEXT_LARG_ELE GeeksforGeeks Problem Link : https://practice.geeksforgeeks.org/problems/next-larger-element/0
 
-### 12. LINKED LISTS
+----
 
-### 13. SEGMENT TREES
+### 13. LINKED LISTS
 
-### 14. SEGMENT TREES (WITH LAZY PROPAGATION)
+----
 
-### 15. FENWICK TREE (BINARY INDEX TREE)
+### 14. SEGMENT TREES
 
-### 16. TREES (TRAVERSAL)
+----
 
-### 17. PRIM & KRUSKAL ALGORITHM ( MINIMUM SPANNING TREE )
+### 15. SEGMENT TREES (WITH LAZY PROPAGATION)
 
-### 18. GRAPHS
+----
+
+### 16. FENWICK TREE (BINARY INDEX TREE)
+
+----
+
+### 17. TREES (TRAVERSAL)
+
+----
+
+### 18. PRIM & KRUSKAL ALGORITHM ( MINIMUM SPANNING TREE )
+
+----
+
+### 19. GRAPHS
 
 - PERMUTATION_SWAPS HackerEarth Problem Link : https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/practice-problems/algorithm/permutation-swaps/
 
 - BFS_SHORTEST_REACH Hackerrank Problem Link : https://www.hackerrank.com/challenges/linkedin-practice-graph-theory-bfs/problem
 
-### 19. DIJKSTRA ALGORITHM || BELLMAN-FORD ALGORITHM || FLOYD-WARSHALL ALGORITHM
+----
 
-### 20. TOPOLOGICAL SORTING
+### 20. DIJKSTRA ALGORITHM || BELLMAN-FORD ALGORITHM || FLOYD-WARSHALL ALGORITHM
 
-### 21. EULAR PATH, TOUR/CYCLE
+----
 
-### 22. COMBINATORICS
+### 21. TOPOLOGICAL SORTING
 
-### 23. NUMBER THEORY 
+----
+
+### 22. EULAR PATH, TOUR/CYCLE
+
+----
+
+### 23. COMBINATORICS
+
+----
+
+### 24. NUMBER THEORY 
 
 - CRDGAME3 CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/CRDGAME3
 
-### 24. STRING THEORY
+-----
+
+### 25. STRING THEORY
 
 - SKMP CodeChef Problem Link : https://www.codechef.com/AUG20B/problems/SKMP
 
-### 25. MODULO ARITHMETIC
+----
 
-### 26. DIVIDE & CONQUER
+### 26. MODULO ARITHMETIC
 
-### 26. ADVANCED DYNAMIC PROGRAMMING
+----
+
+### 26. ADHOC PROBLEMS
+
+----
+
+### 26. FFT & HLD
+
+-----
 
 ### 27. DISJOINT SET UNION
 
