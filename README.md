@@ -1,8 +1,6 @@
 # Competitive_Programming 
 
-A cummulative list of competive programming questions and my code solution for them
-
-----
+A cummulative list of competive programming questions I practice and my code solution for them
 
 <h2 align="center">✨ My Coding Profiles ✨</h3>
 
@@ -18,7 +16,6 @@ A cummulative list of competive programming questions and my code solution for t
    <b> CodeChef : </b> <a href="https://www.codechef.com/users/priyanshi_1709">priyanshi_1709</a>  
 </p>
 
-----
 
 ### 1. ARRAYS
 
