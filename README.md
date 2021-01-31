@@ -7,15 +7,15 @@ A cummulative list of competive programming questions and my code solution for t
 <h2 align="center">✨ My Coding Profiles ✨</h3>
 
 <p align="center">
-   <b> Hackerrank : </b> priyanshi_1709  
+   <b> Hackerrank : </b> <a href="https://www.hackerrank.com/priyanshi_1709?hr_r=1">priyanshi_1709</a>  
 </p>
  
 <p align="center">
-   <b> LeetCode :  </b>  priyanshi1709 
+   <b> LeetCode :  </b>  <a href="https://leetcode.com/Priyanshi1709/">priyanshi1709</a> 
 </p>
 
 <p align="center">
-   <b> CodeChef : </b>   priyanshi_1709   
+   <b> CodeChef : </b> <a href="https://www.codechef.com/users/priyanshi_1709">priyanshi_1709</a>  
 </p>
 
 ----
