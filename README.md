@@ -177,6 +177,8 @@ A cummulative list of competive programming questions I practice and my code sol
 
 ### 13. LINKED LISTS
 
+- BIN2DEC_LL LeetCode Problem Link : https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
 ----
 
 ### 14. SEGMENT TREES
