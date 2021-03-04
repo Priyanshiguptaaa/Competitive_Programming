@@ -151,6 +151,10 @@ A cummulative list of competive programming questions I practice and my code sol
 
 - CTCI_BUBBLE Hackerrank Problem Link : https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?
 
+- COLYLW CodeChef Problem Link: https://www.codechef.com/UAPRAC/problems/COLYLW
+
+- AGGRCOW CodeChef Problem Link: https://www.spoj.com/problems/AGGRCOW/
+
 ----
 
 ### 10. BIT MANIPULATION & BITMASKING
