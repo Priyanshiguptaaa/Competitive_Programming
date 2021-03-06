@@ -127,6 +127,8 @@ A cummulative list of competive programming questions I practice and my code sol
 
 - MAX_MIN Hackerrank Problem Link : https://www.hackerrank.com/challenges/angry-children/problem
 
+- LEMUSIC CodeChef Problem Link : https://www.codechef.com/problems/LEMUSIC
+
 ----
 
 ### 7. DYNAMIC PROGRAMMING 
