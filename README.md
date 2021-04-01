@@ -129,6 +129,8 @@ A cummulative list of competive programming questions I practice and my code sol
 
 - LEMUSIC CodeChef Problem Link : https://www.codechef.com/problems/LEMUSIC
 
+- FRICAN CodeChef Problem Link : https://www.codechef.com/problems/FRICAN
+
 ----
 
 ### 7. DYNAMIC PROGRAMMING 
